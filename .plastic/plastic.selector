@@ -1,4 +1,0 @@
-repository "Project One@CreationArea@cloud"
-  path "/"
-    br "/main"
-    co "/main"
